@@ -30,6 +30,7 @@ You also need to configure your Steam API in steamauth
 Then you then have a login page
 
 If you have put your SteamID64 in the configuration you will have access to a panel like that.  
+
 ![Image](https://i.imgur.com/HnFOk4o.png)
 
 ⚠️ : PLEASE NOTE the buttons with actions are not functional at the moment. [RCON CONCERNED]
@@ -40,5 +41,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
+
+Thanks to https://github.com/SmItH197/SteamAuthentication
+Thanks to https://getbootstrap.com/
 
 [MIT](https://choosealicense.com/licenses/mit/)
