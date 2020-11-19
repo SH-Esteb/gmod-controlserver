@@ -967,9 +967,6 @@ class LightOpenID
                     }
                 }
             }
-        } else {
-            // No alias for the AX schema has been found,
-            // so there is no AX data in the OP's response.
         }
         
         return $result;
